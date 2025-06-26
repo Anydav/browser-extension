@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(180deg, #EBF2FC 0%, #EEF8F9 100%) ;
+    display:flex;
+    justify-content: center;
+}
+main{
+    width: 80%;
+
+    margin-top: 45px;
+}
+#heading{
+    background-color: hsl(200, 60%, 99%);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-radius: 20px;
+}
+#mode{
+    background-color:hsl(0, 0%, 78%);
+    padding: 10px;
+    border-radius: 13px;
+    border: none;
+}
+
+#topic{
+    display: flex;
+    justify-content: space-between ;
+    background-color: blue;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
